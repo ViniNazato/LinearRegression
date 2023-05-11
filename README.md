@@ -1,4 +1,4 @@
-# MachineLearning
+# Linear Regression for Begginer Data Scientists
 
 Hi! Welcome to this GitHub repository where we will learn how to perform an Ordinary Least Squares (OLS) Linear Regression based on a statistical learning approach.
 
